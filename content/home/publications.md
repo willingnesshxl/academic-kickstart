@@ -48,4 +48,4 @@ exclude_selected = false
 </br>
 </br>**Deep Learning-Based Malicious Account Detection in the Momo Social Network**
 </br>Jiaqi Wang, **Xinlei He**, Qingyuan Gong, Yang Chen, Tianyi Wang, Xin Wang
-</br>To appear: International Conference on Computer Communications and Networks(poster)
+</br>To appear: International Conference on Computer Communications and Networks,(poster).
