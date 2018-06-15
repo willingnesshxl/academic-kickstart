@@ -29,7 +29,7 @@ weight = 5
 [[education.courses]]
   course = "Bachelor of Computer Science"
   institution = "Fudan University"
-  year = 2019
+  year = 2017
  
 +++
 
