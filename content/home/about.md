@@ -12,7 +12,8 @@ weight = 5
   interests = [
     "Mobile Systems",
     "User Behavior Modeling in OSNs",
-    "Security in LBSNs"
+    "Security in LBSNs",
+    "Powerlifting"
   ]
 
 # List your qualifications (such as academic degrees).

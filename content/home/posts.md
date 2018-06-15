@@ -2,7 +2,7 @@
 # Recent Posts widget.
 # This widget displays recent posts from `content/post/`.
 widget = "posts"
-active = false
+active = true
 date = 2016-04-20T00:00:00
 
 title = "Honor"
@@ -26,4 +26,6 @@ count = 5
 list_format = 1
 +++
 
-lalala wangdao
+Freshman scholarship, Fudan University, 2017.10
+Wangdao scholar, Fudan University, 2016.10
+
