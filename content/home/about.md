@@ -16,20 +16,20 @@ weight = 5
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
+[[education.cours<!-- es]]
   course = "PhD in Artificial Intelligence"
   institution = "Stanford University"
-  year = 2012
+  year = 2012 -->
 
 [[education.courses]]
   course = "Master of Computer Science"
   institution = "Fudan University"
-  year = 2017-2019(expected)
+  year = 2019
 
 [[education.courses]]
   course = "Bachelor of Computer Science"
   institution = "Fudan University"
-  year = 2013-2017
+  year = 2017
  
 +++
 
