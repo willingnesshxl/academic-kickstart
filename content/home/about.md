@@ -35,5 +35,5 @@ weight = 5
 
 # Biography
 
-I am a first-year master student in Computer Science at Fudan University and the Chief Back End Architect of the Qingyun Go Studio. My current research interests consist of mobile systems and user behavior modeling in online social networks.
+I am a first-year master student in Computer Science at Fudan University and the chief back-end architect of the Qingyun Go Studio. My current research interests consist of mobile systems and user behavior modeling in online social networks.
 
