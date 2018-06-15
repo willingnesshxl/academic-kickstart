@@ -36,6 +36,6 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
-DeepScan: Exploiting Deep Learning for Malicious Account Detection in Location-Based Social Networks.
-Qingyuan Gong, Yang Chen, **Xinlei He**, Zhou Zhuang, Tianyi Wang, Hong Huang, Xin Wang, Xiaoming Fu.
-To appear: IEEE Communications Magazine (IF: 10.435)
+**DeepScan: Exploiting Deep Learning for Malicious Account Detection in Location-Based Social Networks.**
+</br>Qingyuan Gong, Yang Chen, **Xinlei He**, Zhou Zhuang, Tianyi Wang, Hong Huang, Xin Wang, Xiaoming Fu.
+</br>To appear: IEEE Communications Magazine (IF: 10.435)
