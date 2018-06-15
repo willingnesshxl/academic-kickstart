@@ -26,6 +26,6 @@ count = 5
 list_format = 1
 +++
 
-Freshman scholarship, Fudan University, 2017.10
-Wangdao scholar, Fudan University, 2016.10
+</br>Freshman scholarship, Fudan University, 2017.10
+</br>Wangdao scholar, Fudan University, 2016.10
 
