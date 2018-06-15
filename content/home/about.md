@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Mobile System",
-    "User Behavior Modeling in OSN",
-    "Security in LBSN"
+    "Mobile Systems",
+    "User Behavior Modeling in OSNs",
+    "Security in LBSNs"
   ]
 
 # List your qualifications (such as academic degrees).
