@@ -259,12 +259,12 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "#publications"
   weight = 2
 
 [[menu.main]]
   name = "Honors"
-  url = "#posts"
+  url = "#honor"
   weight = 3
 
 [[menu.main]]
