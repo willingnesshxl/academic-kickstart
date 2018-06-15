@@ -264,7 +264,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Honors"
-  url = "#honor"
+  url = "#posts"
   weight = 3
 
 [[menu.main]]
