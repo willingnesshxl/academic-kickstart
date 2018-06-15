@@ -10,26 +10,26 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Mobile System",
-    "Usre Behavior Modeling",
-    "Security in LBSN"
+    "AI",
+    "CL",
+    "IR"
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.cours<!-- es]]
+[[education.courses]]
   course = "PhD in Artificial Intelligence"
   institution = "Stanford University"
-  year = 2012 -->
+  year = 2012
 
 [[education.courses]]
-  course = "Master of Computer Science"
-  institution = "Fudan University"
-  year = 2019
+  course = "MEng in Artificial Intelligence"
+  institution = "Massachusetts Institute of Technology"
+  year = 2009
 
 [[education.courses]]
-  course = "Bachelor of Computer Science"
-  institution = "Fudan University"
-  year = 2017
+  course = "BSc in Artificial Intelligence"
+  institution = "Massachusetts Institute of Technology"
+  year = 2008
  
 +++
 
