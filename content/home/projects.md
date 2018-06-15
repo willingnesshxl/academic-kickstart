@@ -32,9 +32,9 @@ filter_default = 0
 #   name = "All"
 #   tag = "*"
 #  
-[[filter]]
-  name = "Qinyun Go"
-  tag = ".mini-program"
+# [[filter]]
+#   name = "Qinyun Go"
+#   tag = ".mini-program"
 #
 # [[filter]]
 #   name = "Other"
