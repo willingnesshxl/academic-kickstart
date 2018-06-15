@@ -263,8 +263,8 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
-  name = Honors"
-  url = "#honor"
+  name = Posts"
+  url = "#posts"
   weight = 3
 
 [[menu.main]]
@@ -274,7 +274,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Experiences"
-  url = "#experiences"
+  url = "#teaching"
   weight = 5
 
 [[menu.main]]
