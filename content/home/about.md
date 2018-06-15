@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Mobile System",
+    "Usre Behavior Modeling",
+    "Security in LBSN"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -22,14 +22,14 @@ weight = 5
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Master of Computer Science"
+  institution = "Fudan University"
+  year = 2017-2019(expected)
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Bachelor of Computer Science"
+  institution = "Fudan University"
+  year = 2013-2017
  
 +++
 
