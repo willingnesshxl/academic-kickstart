@@ -46,6 +46,6 @@ exclude_selected = false
 </br>To appear: Big Data Mining and Analytics, 2018.
 </br>
 </br>
-</br>**Deep Learning-Based Malicious Account Detection in the Momo Social Network**
+**Deep Learning-Based Malicious Account Detection in the Momo Social Network**
 </br>Jiaqi Wang, **Xinlei He**, Qingyuan Gong, Yang Chen, Tianyi Wang, Xin Wang
 </br>To appear: International Conference on Computer Communications and Networks,(poster), 2018.
