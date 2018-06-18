@@ -33,8 +33,8 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "qygo"
-  tag = ".deep-learning"
+  name = "Mini Program"
+  tag = ".mini-program"
 
 [[filter]]
   name = "Other"
