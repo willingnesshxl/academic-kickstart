@@ -1,9 +1,9 @@
 +++
-title = "DeepScan: Exploiting Deep Learning for Malicious Account Detection in Location-Based Social Networks. "
-date = 2018-01-01T00:00:00
+title = "Deep Learning-Based Malicious Account Detection in the Momo Social Network"
+date = 2018-05-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Qingyuan Gong", "Yang Chen", "**Xinlei He**", "Zhou Zhuang", "Tianyi Wang", "Hong Huang", "Xin Wang", "Xiaoming Fu" ]
+authors = ["Jiaqi Wang", "**Xinlei He**",  "Qingyuan Gong", "Yang  Chen", "Tianyi  Wang", "Xin  Wang" ]
 
 # Publication type.
 # Legend:
@@ -21,9 +21,9 @@ publication = "*IEEE Communications Magazine*"
 
 
 # Abstract and optional shortened version.
-abstract = "The widespread location-based social networks (LB- SNs) have immersed into our daily life. As an open platform, LBSNs typically allow all kinds of users to register accounts. Malicious attackers can easily join and post misleading information, often with the intention of influencing the users’ decision in urban computing environments. To provide reliable information and improve the experience for legitimate users, we design and implement DeepScan, a malicious account detection system for LBSNs. Different from existing approaches, DeepScan leverages emerging deep learning technologies to learn users’ dynamic behavior. In particular, we introduce the long short-term memory (LSTM) neural network to conduct time series analysis of user activities. DeepScan combines newly introduced time series features and a set of conventional features extracted from user activities, and exploits a supervised machine learning-based model for detection. Using the real traces collected from Dianping, a representative LBSN, we demonstrate that DeepScan can achieve an excellent prediction performance with an F1-score of 0.964. We also find that the time series features play a critical role in the detection system."
+abstract = "Due to the rapid development of mobile devices andlocation-based services, location-based social networks(LBSNs)have become  very popular in our daily-life. Malicious accountdetection is very helpful for different kinds of practical applications. In this paper,  we explore the malicious account detectionproblem by introducing a deep learning-based framework. Byusing the long short-term memory (LSTM) neural network, weare able to build a classifier to achieve the binary classification. Byusing the real data collected from Momo, a widely used LBSN which has more than 180 millio  users around the world, we evaluate our framework and the esults show great promise for malicious account detection tasks."
 
-abstract_short = "The widespread location-based social networks (LB- SNs) have immersed into our daily life. As an open platform, LBSNs typically allow all kinds of users to register accounts. Malicious attackers can easily join and post misleading information, often with the intention of influencing the users’ decision in urban computing environments. To provide reliable information and improve the experience for legitimate users, we design and implement DeepScan, a malicious account detection system for LBSNs. Different from existing approaches, DeepScan leverages emerging deep learning technologies to learn users’ dynamic behavior. In particular, we introduce the long short-term memory (LSTM) neural network to conduct time series analysis of user activities. DeepScan combines newly introduced time series features and a set of conventional features extracted from user activities, and exploits a supervised machine learning-based model for detection. Using the real traces collected from Dianping, a representative LBSN, we demonstrate that DeepScan can achieve an excellent prediction performance with an F1-score of 0.964. We also find that the time series features play a critical role in the detection system."
+abstract_short = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -37,7 +37,7 @@ selected = true
 
 
 # Links (optional).
-url_pdf = "https://user.informatik.uni-goettingen.de/~ychen/papers/DeepScan-COMMAG18.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
