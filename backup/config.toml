@@ -55,19 +55,19 @@ enableGitInfo = false
 
   # Your details.
   name = "He Xinlei"
-  role = "First-year master student"
+  role = "Student of Fudan University"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Fudan University", url = "" } ]
+  organizations = [ { name = "Stanford University", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "test.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "xlhe17@fudan.edu.cn"
+  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "17210240099@fudan.edu.cn"
   address = "Cailun Road 1159, Fudan University, China"
-  office_hours = "Please email me"
-  phone = "18321717901"
-  skype = ""
+  office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  phone = "+86 18321717901"
+  skype = "xxx"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -98,8 +98,8 @@ enableGitInfo = false
   #   3: OpenStreetMap (Mapbox)
   map = 0
   map_api_key = ""
-  latitude = "31.4275"
-  longitude = "121.1697"
+  latitude = "37.4275"
+  longitude = "-122.1697"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
@@ -226,22 +226,22 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:xlhe17@fudan.edu.cn"
+    link = "mailto:test@example.org"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/wooohxl"
+    link = "//twitter.com/GeorgeCushen"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk"
+    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/willingnesshxl"
+    link = "//github.com/gcushen"
 
 
 # Navigation Links
@@ -259,11 +259,11 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications"
+  url = "#publications_selected"
   weight = 2
 
 [[menu.main]]
-  name = "Honors"
+  name = "Posts"
   url = "#posts"
   weight = 3
 
@@ -273,7 +273,7 @@ enableGitInfo = false
   weight = 4
 
 [[menu.main]]
-  name = "Experiences"
+  name = "Teaching"
   url = "#teaching"
   weight = 5
 
