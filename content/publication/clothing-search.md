@@ -1,9 +1,9 @@
 +++
-title = "Mobile visual clothing search"
-date = 2013-07-01T00:00:00
+title = "DeepScan: Exploiting Deep Learning for Malicious Account Detection in Location-Based Social Networks. "
+date = 2018-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["GA Cushen", "MS Nixon"]
+authors = ["Qingyuan Gong", "Yang Chen", "Xinlei He", "Zhou Zhuang", "Tianyi Wang", "Hong Huang", "Xin Wang", "Xiaoming Fu" ]
 
 # Publication type.
 # Legend:
@@ -14,15 +14,16 @@ authors = ["GA Cushen", "MS Nixon"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Multimedia and Expo Workshops (ICMEW)*, IEEE."
-publication_short = "In *ICMEW*"
+publication = "*IEEE Communications Magazine*"
+publication_short = "*ICMEW*"
 
 # Abstract and optional shortened version.
-abstract = "We present a mobile visual clothing search system whereby a smart phone user can either choose a social networking photo or take a new photo of a person wearing clothing of interest and search for similar clothing in a retail database. From the query image, the person is detected, clothing is segmented, and clothing features are extracted and quantized. The information is sent from the phone client to a server, where the feature vector of the query image is used to retrieve similar clothing products from online databases. The phone's GPS location is used to re-rank results by retail store location. State of the art work focuses primarily on the recognition of a diverse range of clothing offline and pays little attention to practical applications. Evaluated on a challenging dataset, the system is relatively fast and achieves promising results."
-abstract_short = "A mobile visual clothing search system is presented whereby a smart phone user can either choose a social networking image or capture a new photo of a person wearing clothing of interest and search for similar clothing in a large cloud-based ecommerce database. The phone's GPS location is used to re-rank results by retail store location, to inform the user of local stores where similar clothing items can be tried on."
+abstract = "The widespread location-based social networks (LB- SNs) have immersed into our daily life. As an open platform, LBSNs typically allow all kinds of users to register accounts. Malicious attackers can easily join and post misleading in- formation, often with the intention of influencing the users’ decision in urban computing environments. To provide reliable information and improve the experience for legitimate users, we design and implement DeepScan, a malicious account detection system for LBSNs. Different from existing approaches, DeepScan leverages emerging deep learning technologies to learn users’ dynamic behavior. In particular, we introduce the long short- term memory (LSTM) neural network to conduct time series analysis of user activities. DeepScan combines newly introduced time series features and a set of conventional features extracted from user activities, and exploits a supervised machine learning- based model for detection. Using the real traces collected from Dianping, a representative LBSN, we demonstrate that DeepScan can achieve an excellent prediction performance with an F1-score of 0.964. We also find that the time series features play a critical role in the detection system."
+
+abstract_short = "The widespread location-based social networks (LB- SNs) have immersed into our daily life. As an open platform, LBSNs typically allow all kinds of users to register accounts. Malicious attackers can easily join and post misleading in- formation, often with the intention of influencing the users’ decision in urban computing environments. To provide reliable information and improve the experience for legitimate users, we design and implement DeepScan, a malicious account detection system for LBSNs. Different from existing approaches, DeepScan leverages emerging deep learning technologies to learn users’ dynamic behavior. In particular, we introduce the long short- term memory (LSTM) neural network to conduct time series analysis of user activities. DeepScan combines newly introduced time series features and a set of conventional features extracted from user activities, and exploits a supervised machine learning- based model for detection. Using the real traces collected from Dianping, a representative LBSN, we demonstrate that DeepScan can achieve an excellent prediction performance with an F1-score of 0.964. We also find that the time series features play a critical role in the detection system."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -64,4 +65,4 @@ caption = "My caption :smile:"
 
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+

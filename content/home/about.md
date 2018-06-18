@@ -17,7 +17,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Master of Computer Science, 2019"
+  course = "Master of Computer Science, 2019(expected)"
   institution = "Fudan University"
   year = 2019
 
