@@ -1,6 +1,6 @@
 +++
 title = "A Person Re-Identification System For Mobile Devices"
-date = 2015-09-01T00:00:00
+date = 2018-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Chenxi Yang", "Yang Chen", "Qingyuan Gong", "**Xinlei He**", "Yu Xiao", "Yuhuan Huang", "Xiaoming Fu"]
