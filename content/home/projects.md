@@ -33,7 +33,7 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Deep Learning"
+  name = "qygo"
   tag = ".deep-learning"
 
 [[filter]]
