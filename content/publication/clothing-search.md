@@ -3,7 +3,7 @@ title = "DeepScan: Exploiting Deep Learning for Malicious Account Detection in L
 date = 2018-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Qingyuan Gong", "Yang Chen", "**Xinlei He**", "Zhou Zhuang", "Tianyi Wang", "Hong Huang", "Xin Wang", "Xiaoming Fu" ]
+authors = ["Qingyuan Gong", "Yang Chen", **"Xinlei He"**, "Zhou Zhuang", "Tianyi Wang", "Hong Huang", "Xin Wang", "Xiaoming Fu" ]
 
 # Publication type.
 # Legend:
