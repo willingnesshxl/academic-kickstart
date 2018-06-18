@@ -28,4 +28,4 @@ caption = "My caption :smile:"
 
 +++
 
-Let's try the funny WeChat Mini Program![Qingyun Go](http://www.fudan-mini-program.com/)
+Let's try the funny WeChat Mini Program![Qingyun Go](http://www.fudan-mini-program.com/index.html)
