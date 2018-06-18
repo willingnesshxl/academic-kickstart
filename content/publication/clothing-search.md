@@ -37,7 +37,7 @@ selected = true
 projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+<!-- url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 url_code = "#"
 url_dataset = "#"
@@ -45,7 +45,7 @@ url_project = "#"
 url_slides = "#"
 url_video = "#"
 url_poster = "#"
-url_source = "#"
+url_source = "#" -->
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
