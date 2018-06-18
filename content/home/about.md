@@ -10,31 +10,27 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Mobile Systems",
+    "User Behavior Modeling in OSNs",
+    "Security in LBSNs"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Master of Computer Science, 2019"
+  institution = "Fudan University"
+  year = 2019
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Bachelor of Computer Science"
+  institution = "Fudan University"
+  year = 2017
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+
  
 +++
 
 # Biography
+My name is Xinlei He I am a third-year graduate student at the Computer Science department in Fudan University. My advisor is professor [Yang Chen](https://chenyang03.wordpress.com) and I am now part of [Mobile Systems and Networking Group](http://fudan-msn.weebly.com) of the SONIC Laboratory (WeChat: fudan-msn).
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a first-yeargraduate student in Computer Science at Fudan University and the chief back-end architect of the Qingyun Go Studio. My current research interests consist of mobile systems and user behavior modeling in online social networks.
