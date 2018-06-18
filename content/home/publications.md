@@ -36,16 +36,3 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
-**DeepScan: Exploiting Deep Learning for Malicious Account Detection in Location-Based Social Networks.**
-</br>Qingyuan Gong, Yang Chen, **Xinlei He**, Zhou Zhuang, Tianyi Wang, Hong Huang, Xin Wang, Xiaoming Fu.
-</br>To appear: IEEE Communications Magazine (IF: 10.435), 2018.
-</br>
-</br>
-**Understanding the Behavioral Differences Between American and German Users: A Data-Driven Study.**
-</br>Chenxi Yang, Yang Chen, Qingyuan Gong, **Xinlei He**, Yu Xiao, Yuhuan Huang, Xiaoming Fu.
-</br>To appear: Big Data Mining and Analytics, 2018.
-</br>
-</br>
-**Deep Learning-Based Malicious Account Detection in the Momo Social Network**
-</br>Jiaqi Wang, **Xinlei He**, Qingyuan Gong, Yang Chen, Tianyi Wang, Xin Wang
-</br>To appear: International Conference on Computer Communications and Networks,(poster), 2018.

@@ -10,30 +10,31 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Mobile Systems",
-    "User Behavior Modeling in OSNs",
-    "Security in LBSNs"
+    "Artificial Intelligence",
+    "Computational Linguistics",
+    "Information Retrieval"
   ]
 
 # List your qualifications (such as academic degrees).
-#[[education.courses]]
-#  course = "PhD in Artificial Intelligence"
-#  institution = "Stanford University"
-#  year = 2012
+[[education.courses]]
+  course = "PhD in Artificial Intelligence"
+  institution = "Stanford University"
+  year = 2012
 
 [[education.courses]]
-  course = "Master of Computer Science"
-  institution = "Fudan University"
-  year = 2019
+  course = "MEng in Artificial Intelligence"
+  institution = "Massachusetts Institute of Technology"
+  year = 2009
 
 [[education.courses]]
-  course = "Bachelor of Computer Science"
-  institution = "Fudan University"
-  year = 2017
+  course = "BSc in Artificial Intelligence"
+  institution = "Massachusetts Institute of Technology"
+  year = 2008
  
 +++
 
 # Biography
 
-I am a first-year master student in Computer Science at Fudan University and the chief back-end architect of the Qingyun Go Studio. My current research interests consist of mobile systems and user behavior modeling in online social networks.
+Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 

@@ -5,7 +5,7 @@ widget = "posts"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Recent Posts"
+title = "Honor"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -25,4 +25,8 @@ count = 5
 #   1 = Detailed
 list_format = 1
 +++
+
+</br>Freshman scholarship, Fudan University, 2017.10
+</br>Wangdao scholar, Fudan University, 2016.10
+</br>
 
