@@ -17,7 +17,7 @@ authors = ["Jiaqi Wang", "**Xinlei He**",  "Qingyuan Gong", "Yang  Chen", "Tiany
 publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "*IEEE Communications Magazine*"
+publication = "*International Conference on Computer Communications and Networks*(Poster)"
 
 
 # Abstract and optional shortened version.
